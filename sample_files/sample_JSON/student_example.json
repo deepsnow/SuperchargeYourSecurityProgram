@@ -1,0 +1,31 @@
+[
+	{
+		"Name": "John Doe",
+		"Student ID": "112233445566778899",
+		"Address": {
+			"Street": "90 Pineview Place #3",
+			"City": "Downer's Grove",
+			"State": "Illinois"
+		},
+		"Birth Date": "25Dec2003",
+		"Government ID": {
+			"Type": "Driver License",
+			"ID": "123456789"
+		},
+		"Major": "Software Engineering",
+		"Courses Completed": [
+			{
+				"Title": "Design Patterns 101",
+				"Semester": "Fall 2023",
+				"Instructor": "Stuart Thinkbright",
+				"Grade": "A"
+			},
+			{
+				"Title": "Software Testing 101",
+				"Semester": "Fall 2023",
+				"Instructor": "Elizabeth Soundmind",
+				"Grade": "A"
+			}
+		]
+	}
+]
